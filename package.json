@@ -1,0 +1,10 @@
+{
+  "name": "mystic",
+  "version": "0.1.0",
+  "description": "\"Reliably unpredictable functions for known unknowns\"",
+  "main": "bigbang.js",
+  "repository": "git@github.com:aaronmgdr/mystic.git",
+  "author": "Aaron DeRuvo <aaron.deruvo@gmail.com>",
+  "license": "GPL",
+  "private": true
+}
